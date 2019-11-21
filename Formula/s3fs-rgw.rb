@@ -1,4 +1,4 @@
-class S3fsRGW < Formula
+class S3fsRgw < Formula
   desc "FUSE-based file system backed by Amazon S3, modified for "
   homepage "https://github.com/s3fs-fuse/s3fs-fuse/wiki"
   url url "https://github.com/s3fs-fuse/s3fs-fuse/archive/v1.85.tar.gz"
